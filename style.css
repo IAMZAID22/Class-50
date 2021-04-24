@@ -1,0 +1,30 @@
+            h1{
+                color:rgb(78, 209, 253);
+            }
+            h2{
+                color:rgb(73, 255, 73);
+            }
+            h3{
+                color:rgb(255, 127, 80);
+            }
+            *{
+                border: solid;
+            }
+            .header{
+              background-color:orangered;  
+              display: flex;
+              justify-content: space-between;
+            }
+            .grid{
+                background-color: cadetblue;
+                display: flex;
+                justify-content: space-evenly;
+            }
+            .footer{
+                background-color: forestgreen;
+                display: flex;
+                justify-content: flex-end;
+            }
+            p,h2{
+                text-align: center;
+            }
